@@ -1,0 +1,19 @@
+
+
+.container {
+  /*color: #517c8f;*/
+  margin: 15px;
+  /*background: #9ec7d9;*/
+  text-align: center;
+}
+.display-none{
+  display: none
+}
+.fill{
+  display: block;
+  width: 100%;
+}
+
+textarea{
+  resize: vertical;
+}
